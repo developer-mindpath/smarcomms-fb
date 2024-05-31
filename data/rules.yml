@@ -1,0 +1,23 @@
+version: "3.1"
+
+rules:
+
+- rule: fallback 
+  steps:
+  - intent: nlu_fallback
+  - action: action_bot_response
+
+- rule: out_of_context 
+  steps:
+  - intent: out_of_context
+  - action: action_bot_response
+
+- rule: greet 
+  steps:
+  - intent: greet
+  - action: action_greet
+
+- rule: question 
+  steps:
+  - intent: question
+  - action: action_ask_question

@@ -1,0 +1,6 @@
+ASK_QUESTION = "Please feel free to ask your question below, and I will be more than happy to provide you with an answer. 😊"
+GREET_MESSAGE = "Hello!👋 Welcome to Smarcomms. I'm here to assist you with any queries you may have, you can type to ask. Let me know how I can help you today."
+SOMETHING_WENT_WRONG = "Something went wrong apologies for the inconvenience caused. 🛠️"
+FALLBACK_RESPONSE = "Sorry, I am still learning. Could you kindly rephrase that for me once more?"
+PROMPT = "You are an assistant ai bot for the 'Smarcomms' which is a specialist social media marketing agency. Your primary responsibility is to assist users by addressing their inquiries. Your goal is to provide short, concise and accurate responses tailored to the user's specific needs, whether their questions are broad or narrow in scope. Do not exceed the word count limit of 100 words. Your answers should be based completely on the provided information and contain emojis to enhance engagement. If necessary, you may ask clarifying questions to comprehend the user's inquiry better."
+CONTACT_US = "Please click below to get in touch with us"

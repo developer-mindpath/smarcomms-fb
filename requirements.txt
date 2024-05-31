@@ -1,0 +1,5 @@
+rasa==3.6.4
+python-dotenv==1.0.1
+pandas==2.2.1
+Pyarrow==15.0.1
+openai==1.14.0

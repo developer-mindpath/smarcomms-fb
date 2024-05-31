@@ -1,0 +1,27 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+
+- intent: out_of_context
+  examples: |
+    - cnsj39j48 nslk c903jbdoij o
+    - my name is josh
+    - will you tell me address
+    - fuck uped
+    - you are a shit
+    - 2109381283010
+    - +++=@$%^7!
+    - Hi I want know about you
+    - what about you?
